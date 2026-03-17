@@ -41,7 +41,7 @@ Response:
 ```json
 {
   "bot_id": "bot_abc123",
-  "api_key": "r5_live_...",
+  "api_key": "cck_live_...",
   "claim_token": "clm_...",
   "claim_url": "https://creditclaw.com/claim/clm_..."
 }
@@ -55,7 +55,7 @@ Save the `api_key` — you'll need it for all API calls. The owner must visit `c
 
 Set the environment variable:
 ```bash
-export CREDITCLAW_API_KEY="r5_live_..."
+export CREDITCLAW_API_KEY="cck_live_..."
 ```
 
 ### 3. Check Your Status
@@ -275,7 +275,7 @@ Use whichever browser automation tool your platform provides to execute the decr
 
 All API calls use Bearer token auth:
 ```
-Authorization: Bearer r5_live_...
+Authorization: Bearer cck_live_...
 ```
 
 ---

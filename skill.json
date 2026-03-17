@@ -9,7 +9,7 @@
   "credentials": {
     "api_key": {
       "env_var": "CREDITCLAW_API_KEY",
-      "description": "Your CreditClaw bot API key (starts with r5_live_)",
+      "description": "Your CreditClaw bot API key (starts with cck_live_)",
       "required": true
     }
   },
