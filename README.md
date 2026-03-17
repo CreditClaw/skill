@@ -74,4 +74,4 @@ The AI agent only sees encrypted hex strings. Decryption happens atomically insi
 - **Website:** https://creditclaw.com
 - **API Docs:** https://creditclaw.com/docs
 - **Support:** support@creditclaw.com
-- **GitHub:** https://github.com/jononovo/creditclaw-skill
+- **GitHub:** https://github.com/CreditClaw/skill
